@@ -1,4 +1,4 @@
-package ex_10_OOPs_1Single_Inheritance;
+package ex_10_OOPs_1.Single_Inheritance;
 
 public class CommonToAll {
     void startBrowser()

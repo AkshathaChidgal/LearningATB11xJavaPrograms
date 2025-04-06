@@ -1,4 +1,4 @@
-package ex_10_OOPs_2Multiple_Inheritance;
+package ex_10_OOPs_2.Multiple_Inheritance;
 
 public class Son2 extends Father_MP {
     public static void main(String[] args) {

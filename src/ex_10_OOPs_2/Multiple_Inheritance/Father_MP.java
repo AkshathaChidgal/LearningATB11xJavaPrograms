@@ -1,4 +1,4 @@
-package ex_10_OOPs_2Multiple_Inheritance;
+package ex_10_OOPs_2.Multiple_Inheritance;
 
 public class Father_MP {
 
