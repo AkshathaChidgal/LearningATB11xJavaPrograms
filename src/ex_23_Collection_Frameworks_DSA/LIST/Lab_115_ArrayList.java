@@ -24,7 +24,7 @@ public class Lab_115_ArrayList {
          List l2=new ArrayList();
         System.out.println(l2.isEmpty());
 
-
+//ArrayList is a class-concrete class, List is the interface
 
     }
 }
